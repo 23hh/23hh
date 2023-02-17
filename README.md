@@ -1,6 +1,6 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello%20World&fontSize=40&animation=twinkling)
 
-<a href="[http://melonicedlatte.com/](https://www.notion.so/23h/ab9497cd8b63472bb07033fb1d99208a)">
+<a href="https://www.notion.so/23h/ab9497cd8b63472bb07033fb1d99208a">
     <img src="https://img.shields.io/badge/Blog-red"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
