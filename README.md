@@ -2,11 +2,11 @@
 
 
 ### Skills 👏
-<img src="https://img.shields.io/badge/node.js-E34F26?style=for-the-badge&logo=html5&logoColor=#339933">
-<img src="https://img.shields.io/badge/javascript-E34F26?style=for-the-badge&logo=html5&logoColor=#F7DF1E">
-<img src="https://img.shields.io/badge/express-E34F26?style=for-the-badge&logo=html5&logoColor=##000000">
-<img src="https://img.shields.io/badge/oracle-E34F26?style=for-the-badge&logo=html5&logoColor=##F80000">
-<img src="https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=html5&logoColor=###F05032">
+<img src="https://img.shields.io/badge/node.js-E34F26?style=for-the-badge&logo=node.js&logoColor=#339933">
+<img src="https://img.shields.io/badge/javascript-E34F26?style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
+<img src="https://img.shields.io/badge/express-E34F26?style=for-the-badge&logo=express&logoColor=##000000">
+<img src="https://img.shields.io/badge/oracle-E34F26?style=for-the-badge&logo=oracl&logoColor=##F80000">
+<img src="https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=###F05032">
 
 
 
