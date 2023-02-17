@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello World&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello$20World&fontSize=40&animation=twinkling)
 
 
 ### Skills 👏
