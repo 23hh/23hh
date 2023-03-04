@@ -1,4 +1,4 @@
-<div align="center">
+
      
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello%20World&fontSize=40&animation=twinkling)
 
@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23hh&show_icons=true&theme=radical)
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23hh&layout=compact&theme=dark)
-</div>
 <!--
 **23hh/23hh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
