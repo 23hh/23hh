@@ -2,10 +2,7 @@
      
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello%20World&fontSize=40&animation=twinkling)
 
-<a href="https://www.notion.so/23h/ab9497cd8b63472bb07033fb1d99208a">
-    <img src="https://img.shields.io/badge/Blog-red"
-        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
-</a> <a href="https://codepen.io/23hh">
+<a href="https://codepen.io/23hh">
     <img src="https://img.shields.io/badge/Codepen-grey"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
