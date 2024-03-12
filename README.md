@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
      
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello%20World&fontSize=40&animation=twinkling)
 
