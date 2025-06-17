@@ -42,12 +42,16 @@
 
 ---
 
-## 📝 About Me
+## 📝 About Me (EN)
 
 - 🔭 I’m aiming to become a **Full-Stack Developer**  
 - 🌱 Currently learning **React**, **Vue**, and **AWS**  
 - 👀 Interested in **DevOps** and cloud infrastructure  
-- 👯 Open to collaborating on **frontend/backend** projects
+- 👯 Open to collaborating on **frontend/backend** projects  
+
+---
+
+## 📝 自己紹介 (JP)
 
 - 🔭 **フルスタック開発者** を目指しています  
 - 🌱 現在は **React**、**Vue**、**AWS** を学習中です  
