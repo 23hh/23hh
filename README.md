@@ -1,37 +1,55 @@
-<div align="left">
-     
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello%20World&fontSize=40&animation=twinkling)
+<div align="center">
 
-<a href="https://codepen.io/23hh">
-    <img src="https://img.shields.io/badge/Codepen-grey"
-        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
-</a>
-    <br/>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello%20World!%20I'm%2023hh&fontSize=40&animation=twinkling)
 
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=23hh&show_icons=true&theme=radical)
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23hh&layout=compact&theme=dark)
-</div>
-<!--
-**23hh/23hh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Codepen](https://img.shields.io/badge/Codepen-grey?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/23hh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/23hh)
 
 </div>
+
+---
+
+## 👨‍💻 Tech Stack
+
+### 🚀 Frameworks & Libraries
+<div>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</div>
+
+### 💻 Languages
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</div>
+
+### ☁️ Tools & DevOps
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23hh&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23hh&layout=compact&theme=dark" width="48%"/>
+</div>
+
+---
+
+## 📝 About Me
+
+- 🔭 I’m currently working on ...  
+- 🌱 I’m currently learning Vue & AWS  
+- 👯 I’m looking to collaborate on frontend/backend projects  
+- 🤔 I’m looking for help with scalable backend architecture  
+- 💬 Ask me about JavaScript, Node.js, Vue, React  
+- 📫 How to reach me: [GitHub](https://github.com/23hh) or [Codepen](https://codepen.io/23hh)  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I love building UI components from scratch!
+
