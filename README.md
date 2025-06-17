@@ -44,12 +44,13 @@
 
 ## 📝 About Me
 
-- 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning Vue & AWS  
-- 👯 I’m looking to collaborate on frontend/backend projects  
-- 🤔 I’m looking for help with scalable backend architecture  
-- 💬 Ask me about JavaScript, Node.js, Vue, React  
-- 📫 How to reach me: [GitHub](https://github.com/23hh) or [Codepen](https://codepen.io/23hh)  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I love building UI components from scratch!
+- 🔭 I’m aiming to become a **Full-Stack Developer**  
+- 🌱 Currently learning **React**, **Vue**, and **AWS**  
+- 👀 Interested in **DevOps** and cloud infrastructure  
+- 👯 Open to collaborating on **frontend/backend** projects
+
+- 🔭 **フルスタック開発者** を目指しています  
+- 🌱 現在は **React**、**Vue**、**AWS** を学習中です  
+- 👀 **DevOps** やクラウドインフラにも興味があります  
+- 👯 **フロントエンド／バックエンド** プロジェクトでの共同作業を歓迎します  
 
